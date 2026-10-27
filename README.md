@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SlashYear is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://slashyear.com
+SlashYear provides a free, keyless API delivering a curated historical record of yearly events sourced from Wikipedia revisions. Users can query by year, date, subject, or country, and access supporting data such as world leaders, Nobel prizes, and Billboard charts. The service is open, CORS-enabled, and includes OpenAPI 3.1 documentation.
+
+**Areas:** History · Data · API · Open · Free
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://slashyear.com)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/slashyear-com/](https://apis.io/providers/slashyear-com/).
